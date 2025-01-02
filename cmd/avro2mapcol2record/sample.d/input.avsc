@@ -1,0 +1,10 @@
+{
+    "type":"record",
+    "name":"sample_rec",
+    "fields":[
+      {"name":"date", "type":"string"},
+      {"name":"level", "type":"string"},
+      {"name":"body", "type":"string"},
+      {"name":"data", "type":"string"}
+    ]
+}

@@ -1,0 +1,13 @@
+{
+	"type":"map",
+	"values":[
+		"null",
+	    "string",
+		"int",
+		"long",
+		"float",
+		"double",
+		"boolean",
+		{"type":"long", "logicalType":"timestamp-micros"}
+	]
+}
